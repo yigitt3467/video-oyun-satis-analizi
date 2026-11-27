@@ -43,6 +43,9 @@ Yapılan Analizler
 ### Bölgelere Göre Satışlar
 ![Bölgesel Satışlar](images/regional_sales.png)
 
+### Yıllara Göre Satışlar
+![Yıllara Göre Satışlar](images/year_sales.png)
+
 
 ## 📌 Genel Değerlendirme
 
