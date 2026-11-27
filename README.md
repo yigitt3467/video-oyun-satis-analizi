@@ -34,15 +34,15 @@ Yapılan Analizler
 | En yüksek satış bölgesi | Kuzey Amerika | 4392.95 |
 
  📊 Grafikler ve Görselleştirmeler
-
 ### Platformlara Göre Satışlar
-![Platform Satışları](images/top_platforms.png)
+![Platform Satışları](gorseller/top_platforms.png)
 
 ### Oyun Türlerine Göre Satışlar
-![Oyun Türü Satışları](images/top_genres.png)
+![Oyun Türü Satışları](gorseller/top_genres.png)
 
 ### Bölgelere Göre Satışlar
-![Bölgesel Satışlar](images/regional_sales.png)
+![Bölgesel Satışlar](gorseller/regional_sales.png)
+
 
 ## 📌 Genel Değerlendirme
 
