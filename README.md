@@ -35,13 +35,13 @@ Yapılan Analizler
 
  📊 Grafikler ve Görselleştirmeler
 ### Platformlara Göre Satışlar
-![Platform Satışları](gorseller/top_platforms.png)
+![Platform Satışları](images/top_platforms.png)
 
 ### Oyun Türlerine Göre Satışlar
-![Oyun Türü Satışları](gorseller/top_genres.png)
+![Oyun Türü Satışları](images/top_genres.png)
 
 ### Bölgelere Göre Satışlar
-![Bölgesel Satışlar](gorseller/regional_sales.png)
+![Bölgesel Satışlar](images/regional_sales.png)
 
 
 ## 📌 Genel Değerlendirme
